@@ -1,1 +1,2 @@
-# tarea2_progra3
+# Adrian Piero Gavino Navarrete
+# Rafaella Ariana Cano Ramos
